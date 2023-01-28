@@ -1,0 +1,15 @@
+D:\Final1chetvert\Itogi_bloka\obj\Debug\net7.0\Itogi_bloka.csproj.AssemblyReference.cache
+D:\Final1chetvert\Itogi_bloka\obj\Debug\net7.0\Itogi_bloka.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final1chetvert\Itogi_bloka\obj\Debug\net7.0\Itogi_bloka.AssemblyInfoInputs.cache
+D:\Final1chetvert\Itogi_bloka\obj\Debug\net7.0\Itogi_bloka.AssemblyInfo.cs
+D:\Final1chetvert\Itogi_bloka\obj\Debug\net7.0\Itogi_bloka.csproj.CoreCompileInputs.cache
+D:\Final1chetvert\Itogi_bloka\bin\Debug\net7.0\Itogi_bloka.exe
+D:\Final1chetvert\Itogi_bloka\bin\Debug\net7.0\Itogi_bloka.deps.json
+D:\Final1chetvert\Itogi_bloka\bin\Debug\net7.0\Itogi_bloka.runtimeconfig.json
+D:\Final1chetvert\Itogi_bloka\bin\Debug\net7.0\Itogi_bloka.dll
+D:\Final1chetvert\Itogi_bloka\bin\Debug\net7.0\Itogi_bloka.pdb
+D:\Final1chetvert\Itogi_bloka\obj\Debug\net7.0\Itogi_bloka.dll
+D:\Final1chetvert\Itogi_bloka\obj\Debug\net7.0\refint\Itogi_bloka.dll
+D:\Final1chetvert\Itogi_bloka\obj\Debug\net7.0\Itogi_bloka.pdb
+D:\Final1chetvert\Itogi_bloka\obj\Debug\net7.0\Itogi_bloka.genruntimeconfig.cache
+D:\Final1chetvert\Itogi_bloka\obj\Debug\net7.0\ref\Itogi_bloka.dll
